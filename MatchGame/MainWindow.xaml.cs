@@ -94,6 +94,7 @@ namespace MatchGame
                 matchesFound++;
                 textBlock.Visibility = Visibility.Hidden;
                 findingMatch = false;
+                //Hello World
             }
             else
             {
